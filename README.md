@@ -1,10 +1,3 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-usman-327894169"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=muhammadusmanuet&style=flat-square&color=blue" alt=""></p>
-
-About Me :
-
 I am Muhammad Usman a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
