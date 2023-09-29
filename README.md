@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-usman-327894169"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=muhammad-usman-327894169&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=muhammadusmanuet&style=flat-square&color=blue" alt=""></p>
 
 About Me :
 
