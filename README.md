@@ -10,7 +10,7 @@ I am Muhammad Usman a Full Stack Developer <img src="https://media.giphy.com/med
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I solve problems on LeetCode and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-muhammadusman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-327894169/)[![Whatsapp Badge](https://img.shields.io/badge/-923088545306-green?style=flat&logo=Whatsapp&logoColor=green)](https://wa.me/923088545306)[![Gmail Badge](https://img.shields.io/badge/-muhammadusman28510@gmail.com-red?style=flat&logo=Gmail&logoColor=red)](https://wa.me/923088545306)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-muhammadusman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-327894169/)&nbsp; [![Whatsapp Badge](https://img.shields.io/badge/-923088545306-green?style=flat&logo=Whatsapp&logoColor=green)](https://wa.me/923088545306)&nbsp; [![Gmail Badge](https://img.shields.io/badge/-muhammadusman28510@gmail.com-red?style=flat&logo=Gmail&logoColor=red)](https://wa.me/923088545306)
 
 ---
 
